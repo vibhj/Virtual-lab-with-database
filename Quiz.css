@@ -1,0 +1,51 @@
+.frame {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 700px;
+    width: 100%;
+    border: 20px solid #bdc3c7;
+    font-family: 'Source Sans Pro', sans-serif;
+    
+}
+hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+hr {
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+.choice {
+    color: #3498db;
+    letter-spacing: 0.2rem;
+}
+
+h1 {
+    font-size: 2.0rem;
+    font-weight: bold;
+    color: #2c3e50;
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
