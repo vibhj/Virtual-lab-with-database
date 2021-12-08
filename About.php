@@ -123,7 +123,7 @@
     	</p>
     	<br>
     	<p>
-    		    <h3>Hey, I am Vibhanshu. I am a third-year undergraduate and currently pursuing a major in Information Technology Engineering from ABES Engineering College, Ghaziabad, India. I have a problem-solving mindset. I am pretty handy with tools such as HTML, CSS, Bootstrap, and little bit JavaScript. My passion is learning new things, and my hobbies are travelling and playing online games.</h3><br>
+    		    <h3>Hey, I am Vibhanshu. I am a fourth-year undergraduate and currently pursuing a major in Information Technology Engineering from ABES Engineering College, Ghaziabad, India. I have a problem-solving mindset. I am pretty handy with tools such as HTML, CSS, Bootstrap, and little bit JavaScript. My passion is learning new things, and my hobbies are travelling and playing online games.</h3><br>
     	</p>
 		</div>
 	</div>
